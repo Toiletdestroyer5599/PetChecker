@@ -1,5 +1,5 @@
 {
     "version": "1.0.2",
-    "download_url": "https://github.com/Toiletdestroyer5599/PetChecker/releases/download/v1.0.1/dist.2.zip",
-    "changelog": "- Interval and Cooldown has been made Custom\n- Cooldown and Interval box has been added\n- Auto Update has been fixed"
-  }
+    "filename": "dist.2.zip",
+    "changelog": "Initial release with auto-updater"
+}
